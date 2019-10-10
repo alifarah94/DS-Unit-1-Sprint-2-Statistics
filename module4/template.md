@@ -10,8 +10,7 @@ working on for your project week.
 
 ## You
 
-What do you care about?
-
+What do you care about?:
 Health, income, Debt, entertenment
 
 What do you know about?
