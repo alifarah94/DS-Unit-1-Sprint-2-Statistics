@@ -59,17 +59,17 @@ that going to university may not improve your situation
 
 ## Examples
 
-What data storytelling example inspires you?
+What data storytelling example inspires you?:
 
 
-Could you do a new hypothesis, for the same question?
-Yes
+Could you do a new hypothesis, for the same question?:
+ Yes
 
-Could you do a new question, for the same topic?
-Yes
+Could you do a new question, for the same topic?:
+ Yes
 
-Could you do a new topic, with the same "style"?
-Yes
+Could you do a new topic, with the same "style"?:
+ Yes
 
 ## Data
 
@@ -129,17 +129,17 @@ That  it is not achieveable, tech is to expensive
 
 ## Examples
 
-What data storytelling example inspires you?
+What data storytelling example inspires you?:
 
 
-Could you do a new hypothesis, for the same question?
-Yes
+Could you do a new hypothesis, for the same question?:
+ Yes
 
-Could you do a new question, for the same topic?
-Yes
+Could you do a new question, for the same topic?:
+ Yes
 
-Could you do a new topic, with the same "style"?
-Yes
+Could you do a new topic, with the same "style"?:
+ Yes
 
 ## Data
 
