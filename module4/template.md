@@ -81,14 +81,14 @@ https://www.hesa.ac.uk/data-and-analysis/students , google
 
 ## You
 
-What do you care about?
+What do you care about?:
+ Health
 
+What do you know about?:
+ Technology
 
-What do you know about?
-
-
-What decisions do you face?
-
+What decisions do you face?:
+ What food to eat, what medication to take 
 
 ## Seven templates
 
@@ -96,31 +96,36 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+1. Geographic Variation:
+ Yes
+
+2. Trend related to the news:
+ Yes
+
+3. Who does that?:
+ Yes
 
 
-2. Trend related to the news
+4. Answering a question people care about:
+ Yes
 
 
-3. Who does that?
+5. Valuable to businesses:
+ Yes
 
 
-4. Answering a question people care about
+6. What's the most popular?:
+ Yes
 
 
-5. Valuable to businesses
-
-
-6. What's the most popular?
-
-
-7. Cost/Money rankings
+7. Cost/Money rankings:
+ Yes
 
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
-
+That  it is not achieveable, tech is to expensive
 
 ## Examples
 
@@ -128,14 +133,15 @@ What data storytelling example inspires you?
 
 
 Could you do a new hypothesis, for the same question?
-
+Yes
 
 Could you do a new question, for the same topic?
-
+Yes
 
 Could you do a new topic, with the same "style"?
-
+Yes
 
 ## Data
 
 Where could you search for data about your topic?
+https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets
