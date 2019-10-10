@@ -33,27 +33,28 @@ Can you apply the templates to your topics?
  Yes
 
 3. Who does that?:
- 
+ Yes
 
 
 4. Answering a question people care about:
- Maybe
+ Yes
 
 5. Valuable to businesses:
  Yes
 
 
 6. What's the most popular?:
- Maybe
+ No
 
 
 7. Cost/Money rankings:
- Dont know
+ No
 
 
 ## Misconceptions
 
-What misconceptions do people have about your topic?
+What misconceptions do people have about your topic?:
+that going to university may not improve your situation 
 
 
 ## Examples
@@ -62,18 +63,18 @@ What data storytelling example inspires you?
 
 
 Could you do a new hypothesis, for the same question?
-
+Yes
 
 Could you do a new question, for the same topic?
-
+Yes
 
 Could you do a new topic, with the same "style"?
-
+Yes
 
 ## Data
 
 Where could you search for data about your topic?
-
+https://www.hesa.ac.uk/data-and-analysis/students , google
 ---
 
 # Ideas for data storytelling - Idea 2
